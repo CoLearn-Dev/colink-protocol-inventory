@@ -1,0 +1,9 @@
+[package]
+name = "policy_module"
+keywords = ["policy module"]
+description = "policy module"
+
+[source]
+    [source.git]
+    url = "git@github.com:CoLearn-Dev/colink-protocol-policy-module-dev.git"
+    commit = "838497f51b63a4ce5578f1407de4b2a3c313b64c"

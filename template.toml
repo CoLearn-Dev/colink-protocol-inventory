@@ -1,0 +1,17 @@
+[package]
+name = "colink_protocol"
+keywords = ["protocol template"]
+description = "policy template"
+
+[source]
+    [source.archive]
+    url = "https://colearn.dev/protocol-inventory/template.tar.gz"
+    sha256 = "0c90ba485fc0abbe73746323e7d41ba450a96a4715ca1f36896c0f0f1341d6e1"
+    [source.git]
+    url = "https://github.com/CoLearn-Dev/colink-protocol-inventory.git"
+    commit = "e2927459946b1f2cac317cc7efdf5a1144e1d2c3"
+
+[binary]
+    [binary.linux_amd64]
+    url = "https://colearn.dev/protocol-inventory/template-linux-amd64.tar.gz"
+    sha256 = "3a96c6139ceb0c4e828731dd5865651ba6280479331e0630036866ca87bccada"
