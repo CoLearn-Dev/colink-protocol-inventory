@@ -12,6 +12,11 @@ description = "policy template"
     commit = "e2927459946b1f2cac317cc7efdf5a1144e1d2c3"
 
 [binary]
-    [binary.linux_amd64]
-    url = "https://colearn.dev/protocol-inventory/template-linux-amd64.tar.gz"
+    # Format OS-ARCH
+    # https://doc.rust-lang.org/std/env/consts/constant.OS.html https://doc.rust-lang.org/std/env/consts/constant.ARCH.html
+    [binary.linux-x86_64]
+    url = "https://colearn.dev/protocol-inventory/template-linux-x86_64.tar.gz"
     sha256 = "3a96c6139ceb0c4e828731dd5865651ba6280479331e0630036866ca87bccada"
+    [binary.linux-x86]
+    url = "https://colearn.dev/protocol-inventory/template-linux-x86.tar.gz"
+    sha256 = "67e2a2eff184180842d4ab841464dfef6d7af257d7b39a1b10f616867ba5f09e"
