@@ -1,0 +1,9 @@
+[package]
+name = "registry"
+keywords = ["registry"]
+description = "registry"
+
+[source]
+    [source.git]
+    url = "git@github.com:CoLearn-Dev/colink-protocol-registry-dev.git"
+    commit = "c730d861acff500a74b31752fb726709627c3163"
