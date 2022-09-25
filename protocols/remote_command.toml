@@ -1,0 +1,9 @@
+[package]
+name = "remote_command"
+keywords = ["remote command"]
+description = "remote command"
+
+[source]
+    [source.git]
+    url = "git@github.com:CoLearn-Dev/colink-protocol-remote-command-dev.git"
+    commit = "d4b85afb0f14f1a0f0671054bc7cb8845c66a0a8"

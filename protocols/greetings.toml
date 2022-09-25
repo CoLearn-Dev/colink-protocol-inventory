@@ -1,0 +1,9 @@
+[package]
+name = "greetings"
+keywords = ["greetings"]
+description = "greetings"
+
+[source]
+    [source.git]
+    url = "git@github.com:CoLearn-Dev/colink-protocol-greetings-dev.git"
+    commit = "83675a25da7f6d7d25665294ae06dba3bc898095"
