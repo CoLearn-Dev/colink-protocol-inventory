@@ -1,7 +1,7 @@
 [package]
 name = "colink_protocol"
 keywords = ["protocol template"]
-description = "policy template"
+description = "protocol template"
 
 [source]
     [source.archive]

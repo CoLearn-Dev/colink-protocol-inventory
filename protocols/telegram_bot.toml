@@ -1,0 +1,9 @@
+[package]
+name = "telegram_bot"
+keywords = ["telegram bot"]
+description = "telegram bot"
+
+[source]
+    [source.git]
+    url = "git@github.com:CoLearn-Dev/colink-protocol-telegram-bot-dev.git"
+    commit = "6bd2ecf992c6e57143530d63f327088c7ce792f1"
