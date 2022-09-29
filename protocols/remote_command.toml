@@ -6,4 +6,4 @@ description = "remote command"
 [source]
     [source.git]
     url = "git@github.com:CoLearn-Dev/colink-protocol-remote-command-dev.git"
-    commit = "d4b85afb0f14f1a0f0671054bc7cb8845c66a0a8"
+    commit = "05a8071c262176d70e3e0c6a6e8e2872355f7977"
