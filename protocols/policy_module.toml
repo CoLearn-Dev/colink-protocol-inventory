@@ -6,4 +6,4 @@ description = "policy module"
 [source]
     [source.git]
     url = "git@github.com:CoLearn-Dev/colink-protocol-policy-module-dev.git"
-    commit = "c5dafc90e6477ac75810eb2e264a0cc79fac422f"
+    commit = "6a53c1e389a4ca1639c420973f2acc9be9a7876d"
