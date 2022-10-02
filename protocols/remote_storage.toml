@@ -6,4 +6,4 @@ description = "remote storage"
 [source]
     [source.git]
     url = "git@github.com:CoLearn-Dev/colink-protocol-remote-storage-dev.git"
-    commit = "8cf3b812dbb6a9e858a139e4d7ff59eb9ee95a1c"
+    commit = "5e21db60ea65514db367839e521ab92ec1938bf6"

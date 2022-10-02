@@ -6,4 +6,4 @@ description = "registry"
 [source]
     [source.git]
     url = "git@github.com:CoLearn-Dev/colink-protocol-registry-dev.git"
-    commit = "1efde565f79d2294204f784b37aeb584a29094d9"
+    commit = "29f7db7096e09945bdca2e75da1cc22575a0f08e"

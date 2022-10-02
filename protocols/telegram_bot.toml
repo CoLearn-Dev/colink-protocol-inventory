@@ -6,4 +6,4 @@ description = "telegram bot"
 [source]
     [source.git]
     url = "git@github.com:CoLearn-Dev/colink-protocol-telegram-bot-dev.git"
-    commit = "d2f5209831fe579e4cd8f30981c34fca016dc3c2"
+    commit = "6a1fa93856fc4782718871e33800f5c47cdbe7bf"
