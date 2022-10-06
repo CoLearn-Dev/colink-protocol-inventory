@@ -5,5 +5,10 @@ description = "policy module"
 
 [source]
     [source.git]
-    url = "git@github.com:CoLearn-Dev/colink-protocol-policy-module-dev.git"
-    commit = "3b7095d0d423f6b8947cc74e5557d68e5565af4e"
+    url = "https://github.com/CoLearn-Dev/colink-protocol-policy-module-dev.git"
+    commit = "7afe83bd32185ff0501f8d51a249f3aeacb38256"
+
+[binary]
+    [binary.linux-x86_64]
+    url = "https://github.com/CoLearn-Dev/colink-protocol-policy-module-dev/releases/download/v0.1.1/colink-protocol-policy-module-linux-x86_64.tar.gz"
+    sha256 = "276979fb75b5db360519a381d1b94fa8b29c887b0ed8c2602ba46ad708f49a09"
