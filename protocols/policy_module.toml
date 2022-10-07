@@ -1,14 +1,9 @@
-[package]
-name = "policy_module"
-keywords = ["policy module"]
-description = "policy module"
-
 [source]
     [source.git]
     url = "https://github.com/CoLearn-Dev/colink-protocol-policy-module-dev.git"
-    commit = "7afe83bd32185ff0501f8d51a249f3aeacb38256"
+    commit = "bc505d34d0af6a8ccd96af1bc5cd9934e7c03e6d"
 
 [binary]
     [binary.linux-x86_64]
     url = "https://github.com/CoLearn-Dev/colink-protocol-policy-module-dev/releases/download/v0.1.1/colink-protocol-policy-module-linux-x86_64.tar.gz"
-    sha256 = "276979fb75b5db360519a381d1b94fa8b29c887b0ed8c2602ba46ad708f49a09"
+    sha256 = "5765251d54684dfbcee28346ac20d86f4237a091b727c06e3ff429b32d281e5c"
