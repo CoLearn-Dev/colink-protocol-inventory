@@ -1,9 +1,9 @@
-[package]
-name = "registry"
-keywords = ["registry"]
-description = "registry"
-
 [source]
     [source.git]
-    url = "git@github.com:CoLearn-Dev/colink-protocol-registry-dev.git"
-    commit = "29f7db7096e09945bdca2e75da1cc22575a0f08e"
+    url = "https://github.com/CoLearn-Dev/colink-protocol-registry-dev.git"
+    commit = "01e0ef53020b0cac2bdd312c740ef366c39e927f"
+
+[binary]
+    [binary.linux-x86_64]
+    url = "https://github.com/CoLearn-Dev/colink-protocol-registry-dev/releases/download/v0.1.1/colink-protocol-registry-linux-x86_64.tar.gz"
+    sha256 = "c2fe5bd6b4c97363bba367f21ce9a02e5a6dec1318381c1506a85aec2cf0b8aa"
