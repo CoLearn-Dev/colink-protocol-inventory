@@ -1,9 +1,9 @@
-[package]
-name = "greetings"
-keywords = ["greetings"]
-description = "greetings"
-
 [source]
     [source.git]
-    url = "git@github.com:CoLearn-Dev/colink-protocol-greetings-dev.git"
-    commit = "d3d57940a7235bc3597914a1d44762fc5f14b738"
+    url = "https://github.com/CoLearn-Dev/colink-protocol-greetings-dev.git"
+    commit = "91608245a96b1ee25149a241b1f1284fb4575cbb"
+
+[binary]
+    [binary.linux-x86_64]
+    url = "https://github.com/CoLearn-Dev/colink-protocol-greetings-dev/releases/download/v0.1.1/colink-protocol-greetings-linux-x86_64.tar.gz"
+    sha256 = "72de1b5cefce7fefe4d4b72694105af500538ede515cd14128fcbbacb3fc976a"
