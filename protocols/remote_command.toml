@@ -1,9 +1,9 @@
-[package]
-name = "remote_command"
-keywords = ["remote command"]
-description = "remote command"
-
 [source]
     [source.git]
-    url = "git@github.com:CoLearn-Dev/colink-protocol-remote-command-dev.git"
-    commit = "41ae3c731fa410c0b4549ddfda2d7c5cf94052d2"
+    url = "https://github.com/CoLearn-Dev/colink-protocol-remote-command-dev.git"
+    commit = "aac5c75bcddce8fea3bf2330b3c95c6a0de61946"
+
+[binary]
+    [binary.linux-x86_64]
+    url = "https://github.com/CoLearn-Dev/colink-protocol-remote-command-dev/releases/download/v0.1.1/colink-protocol-remote-command-linux-x86_64.tar.gz"
+    sha256 = "e31859cf36d5767cd288e776913fb7eeea09f50c12197600e9df7affb70b8eb2"
