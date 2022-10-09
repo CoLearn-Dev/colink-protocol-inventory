@@ -1,9 +1,9 @@
-[package]
-name = "remote_storage"
-keywords = ["remote storage"]
-description = "remote storage"
-
 [source]
     [source.git]
-    url = "git@github.com:CoLearn-Dev/colink-protocol-remote-storage-dev.git"
-    commit = "5e21db60ea65514db367839e521ab92ec1938bf6"
+    url = "https://github.com/CoLearn-Dev/colink-protocol-remote-storage-dev.git"
+    commit = "6659f3b491f471abe7984c9f8806fe13185f09bc"
+
+[binary]
+    [binary.linux-x86_64]
+    url = "https://github.com/CoLearn-Dev/colink-protocol-remote-storage-dev/releases/download/v0.1.1/colink-protocol-remote-storage-linux-x86_64.tar.gz"
+    sha256 = "610c6b5a37e4a0b9e4019e38a1793099669432ecd41e2979b89d689abde570b8"
