@@ -1,9 +1,9 @@
-[package]
-name = "telegram_bot"
-keywords = ["telegram bot"]
-description = "telegram bot"
-
 [source]
     [source.git]
-    url = "git@github.com:CoLearn-Dev/colink-protocol-telegram-bot-dev.git"
-    commit = "6a1fa93856fc4782718871e33800f5c47cdbe7bf"
+    url = "https://github.com/CoLearn-Dev/colink-protocol-telegram-bot-dev.git"
+    commit = "b18244e761e82e83ad125f512e15251e36bb5151"
+
+[binary]
+    [binary.linux-x86_64]
+    url = "https://github.com/CoLearn-Dev/colink-protocol-telegram-bot-dev/releases/download/v0.1.1/colink-protocol-telegram-bot-linux-x86_64.tar.gz"
+    sha256 = "7b3e045f36d256aaafbaf5abe728499a4dcc1213daf75747b7efa276405dfa04"
