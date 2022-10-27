@@ -1,9 +1,9 @@
 [source]
     [source.git]
     url = "https://github.com/CoLearn-Dev/colink-protocol-s3h-dev.git"
-    commit = "b8d8aeffa920279ab9b3cfc29e528ce6b33ca4a8"
+    commit = "9f448e2e92534c177b15c7582de977a081e67ea4"
 
 [binary]
     [binary.linux-x86_64]
-    url = "https://github.com/CoLearn-Dev/colink-protocol-s3h-dev/releases/download/v0.1.2/colink-protocol-s3h-linux-x86_64.tar.gz"
-    sha256 = "9dd52a50a2cd2d4c716811b0216889da7295239fc10862cd788def8c72c9f3b4"
+    url = "https://github.com/CoLearn-Dev/colink-protocol-s3h-dev/releases/download/v0.1.3/colink-protocol-s3h-linux-x86_64.tar.gz"
+    sha256 = "374fedb71f8386cce4787aef1cc550740c658825b4d5bca1f5266c4f8157ba8e"
