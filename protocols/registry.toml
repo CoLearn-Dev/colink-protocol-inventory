@@ -1,9 +1,9 @@
 [source]
     [source.git]
     url = "https://github.com/CoLearn-Dev/colink-protocol-registry-dev.git"
-    commit = "01e0ef53020b0cac2bdd312c740ef366c39e927f"
+    commit = "cc273dd3d4f63816bc7b20d4ba9d3a47caa65270"
 
 [binary]
     [binary.linux-x86_64]
-    url = "https://github.com/CoLearn-Dev/colink-protocol-registry-dev/releases/download/v0.1.1/colink-protocol-registry-linux-x86_64.tar.gz"
-    sha256 = "c2fe5bd6b4c97363bba367f21ce9a02e5a6dec1318381c1506a85aec2cf0b8aa"
+    url = "https://github.com/CoLearn-Dev/colink-protocol-registry-dev/releases/download/v0.1.2/colink-protocol-registry-linux-x86_64.tar.gz"
+    sha256 = "055ba6518a84983d81feff473e9d83324eced9c004f4e97671092f348631991d"
