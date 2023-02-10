@@ -1,9 +1,12 @@
 [source]
     [source.git]
     url = "https://github.com/CoLearn-Dev/colink-protocol-policy-module-dev.git"
-    commit = "309e5bcb375e9797421beef66f36938efbf8b519"
+    commit = "da760285a1824b5b16e97d90846541c7d008cd34"
 
 [binary]
     [binary.linux-x86_64]
-    url = "https://github.com/CoLearn-Dev/colink-protocol-policy-module-dev/releases/download/v0.1.3/colink-protocol-policy-module-linux-x86_64.tar.gz"
-    sha256 = "57e1ce8183d8ef152f045f0c0ae3aa8158c826ac85061f554489953f54ee80e1"
+    url = "https://github.com/CoLearn-Dev/colink-protocol-policy-module-dev/releases/download/v0.1.4/colink-protocol-policy-module-linux-x86_64.tar.gz"
+    sha256 = "679f523740253505c332a9d3939b92ee01573ba8a355227ad4993aef16c6840b"
+    [binary.macos-x86_64]
+    url = "https://github.com/CoLearn-Dev/colink-protocol-policy-module-dev/releases/download/v0.1.4/colink-protocol-policy-module-macos-x86_64.tar.gz"
+    sha256 = "f2dd030d8ff22d7d57d7c7778db463bc3aafd842a021c7673e9adf801fa5f900"
