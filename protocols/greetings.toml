@@ -6,4 +6,4 @@
 [binary]
     [binary.linux-x86_64]
     url = "https://github.com/CoLearn-Dev/colink-protocol-greetings-dev/releases/download/v0.1.2/colink-protocol-greetings-linux-x86_64.tar.gz"
-    sha256 = "16ac58224aa00d2e84e399bc60cb65b143408010d75096b80b1fbb9bbdbe65b7"
+    sha256 = "88d6a891a26f9616af1348d0eba80bb5c43147a3cc8d82d171262cf9831ef9ed"
