@@ -1,9 +1,12 @@
 [source]
     [source.git]
     url = "https://github.com/CoLearn-Dev/colink-protocol-greetings-dev.git"
-    commit = "ce698b2943a74308cb2b7c42fa6a156cd7086c93"
+    commit = "5b2e963815fe33709e44b7f33f16acf508ba2343"
 
 [binary]
     [binary.linux-x86_64]
-    url = "https://github.com/CoLearn-Dev/colink-protocol-greetings-dev/releases/download/test2/colink-protocol-greetings-linux-x86_64.tar.gz"
-    sha256 = "550aa2541e6283a38694837c04b4188be4947049fde86a8706435fece327755b"
+    url = "https://github.com/CoLearn-Dev/colink-protocol-greetings-dev/releases/download/v0.1.2/colink-protocol-greetings-linux-x86_64.tar.gz"
+    sha256 = "9ab170c51dced909194266aef8926ad01adab8652624c334db310cd61d94e144"
+    [binary.macos-x86_64]
+    url = "https://github.com/CoLearn-Dev/colink-protocol-greetings-dev/releases/download/v0.1.2/colink-protocol-greetings-macos-x86_64.tar.gz"
+    sha256 = "fda5af05ab2fa3639d9628505b3dbec58317cda88d446d286e032afb8c7bbbcd"
