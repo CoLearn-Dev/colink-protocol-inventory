@@ -1,12 +1,12 @@
 [source]
     [source.git]
     url = "https://github.com/CoLearn-Dev/colink-protocol-registry-dev.git"
-    commit = "0c0ab32fb79fee14c42dc68a9b49bfd5705cb8d0"
+    commit = "15ea019e40465a532a1601a8cc3f4b0e6fe3fd45"
 
 [binary]
     [binary.linux-x86_64]
-    url = "https://github.com/CoLearn-Dev/colink-protocol-registry-dev/releases/download/v0.1.4/colink-protocol-registry-linux-x86_64.tar.gz"
-    sha256 = "63b9fff4f3de94e086e72b5980a1ab0b7def22345e96eb313c048ccc1ec2eb51"
+    url = "https://github.com/CoLearn-Dev/colink-protocol-registry-dev/releases/download/v0.1.5/colink-protocol-registry-linux-x86_64.tar.gz"
+    sha256 = "410b1d46d45102ffc5e94f558b183d6b2f62fbed7a9feab873b883b20bb0fbb5"
     [binary.macos-x86_64]
-    url = "https://github.com/CoLearn-Dev/colink-protocol-registry-dev/releases/download/v0.1.4/colink-protocol-registry-macos-x86_64.tar.gz"
-    sha256 = "d98128ca9e2e7d9d068ab6ec58359758b5617d71685116b978c48693b0f89f5d"
+    url = "https://github.com/CoLearn-Dev/colink-protocol-registry-dev/releases/download/v0.1.5/colink-protocol-registry-macos-x86_64.tar.gz"
+    sha256 = "3bd6b4de6deee37dbe560135e42f9094cf7f068c2810096ca4a87cfd2ab357f8"
