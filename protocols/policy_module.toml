@@ -1,12 +1,12 @@
 [source]
     [source.git]
     url = "https://github.com/CoLearn-Dev/colink-protocol-policy-module-dev.git"
-    commit = "da760285a1824b5b16e97d90846541c7d008cd34"
+    commit = "ede1387791d89d340b9bdd474d79398f85e097d7"
 
 [binary]
     [binary.linux-x86_64]
-    url = "https://github.com/CoLearn-Dev/colink-protocol-policy-module-dev/releases/download/v0.1.4/colink-protocol-policy-module-linux-x86_64.tar.gz"
-    sha256 = "679f523740253505c332a9d3939b92ee01573ba8a355227ad4993aef16c6840b"
+    url = "https://github.com/CoLearn-Dev/colink-protocol-policy-module-dev/releases/download/v0.1.5/colink-protocol-policy-module-linux-x86_64.tar.gz"
+    sha256 = "45b8288e6137d5af30bbac07dd5dec3a156935b49f9914763dfafce22bc07482"
     [binary.macos-x86_64]
-    url = "https://github.com/CoLearn-Dev/colink-protocol-policy-module-dev/releases/download/v0.1.4/colink-protocol-policy-module-macos-x86_64.tar.gz"
-    sha256 = "f2dd030d8ff22d7d57d7c7778db463bc3aafd842a021c7673e9adf801fa5f900"
+    url = "https://github.com/CoLearn-Dev/colink-protocol-policy-module-dev/releases/download/v0.1.5/colink-protocol-policy-module-macos-x86_64.tar.gz"
+    sha256 = "877b7afc38804e6714d9afefe5917ea88b2a5245331652825d78c14a54ac71b6"
