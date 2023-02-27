@@ -1,12 +1,12 @@
 [source]
     [source.git]
     url = "https://github.com/CoLearn-Dev/colink-protocol-telegram-bot-dev.git"
-    commit = "9658160b9ed58e15256d81f7d8008559eb6d7262"
+    commit = "eb390a0d520b793003f1586deb7ec81239ef29e8"
 
 [binary]
     [binary.linux-x86_64]
-    url = "https://github.com/CoLearn-Dev/colink-protocol-telegram-bot-dev/releases/download/v0.1.3/colink-protocol-telegram-bot-linux-x86_64.tar.gz"
-    sha256 = "8244e13cba534da2a1a65d451d2aac9934967757ef461aeedebde65b6ce61c88"
+    url = "https://github.com/CoLearn-Dev/colink-protocol-telegram-bot-dev/releases/download/v0.1.4/colink-protocol-telegram-bot-linux-x86_64.tar.gz"
+    sha256 = "ee0057bcf467e8ae7f7f7a0dd35f3c5d2a8fd6272a50617cdfa5d9d5a2f13d8b"
     [binary.macos-x86_64]
-    url = "https://github.com/CoLearn-Dev/colink-protocol-telegram-bot-dev/releases/download/v0.1.3/colink-protocol-telegram-bot-macos-x86_64.tar.gz"
-    sha256 = "45b1a1908ff8a4682c98d79fd6d424001badea97990997810e4f70c0aac5c5c3"
+    url = "https://github.com/CoLearn-Dev/colink-protocol-telegram-bot-dev/releases/download/v0.1.4/colink-protocol-telegram-bot-macos-x86_64.tar.gz"
+    sha256 = "8e26ff21dd15cb2a43e8511dd703d4e046bceedf2d9de3cf539b858b3d91dabf"
