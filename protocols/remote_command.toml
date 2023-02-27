@@ -1,9 +1,0 @@
-[source]
-    [source.git]
-    url = "https://github.com/CoLearn-Dev/colink-protocol-remote-command-dev.git"
-    commit = "eebbf309d3433cc2c1bc2905bb429ea39edbb2f4"
-
-[binary]
-    [binary.linux-x86_64]
-    url = "https://github.com/CoLearn-Dev/colink-protocol-remote-command-dev/releases/download/v0.1.2/colink-protocol-remote-command-linux-x86_64.tar.gz"
-    sha256 = "6b0dfe9ccc47412a1cd22f78681379dae65387d26a1082ee08828e6ebec51cab"
