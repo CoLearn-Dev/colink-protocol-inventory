@@ -1,12 +1,12 @@
 [source]
     [source.git]
     url = "https://github.com/CoLearn-Dev/colink-protocol-s3h-dev.git"
-    commit = "707aed0ee94635bd9f70fa6e182535f79630c8a2"
+    commit = "89a3791948a539cd601165b70953332b1fe4479e"
 
 [binary]
     [binary.linux-x86_64]
-    url = "https://github.com/CoLearn-Dev/colink-protocol-s3h-dev/releases/download/v0.1.5/colink-protocol-s3h-linux-x86_64.tar.gz"
-    sha256 = "0c8116a8bd36a08f4d39f22adb7eb6f91945721260db8b1b5ecb59f025d667c9"
+    url = "https://github.com/CoLearn-Dev/colink-protocol-s3h-dev/releases/download/v0.1.6/colink-protocol-s3h-linux-x86_64.tar.gz"
+    sha256 = "318e08876362fcea23d11f9d6ac3a2c495235d75b7fe81316a6eee551dfa418e"
     [binary.macos-x86_64]
-    url = "https://github.com/CoLearn-Dev/colink-protocol-s3h-dev/releases/download/v0.1.5/colink-protocol-s3h-macos-x86_64.tar.gz"
-    sha256 = "d9e8b2ec178bc7c8e28cc33dcc96c9ac84da0b3bd0202a9f24b7810e9759eada"
+    url = "https://github.com/CoLearn-Dev/colink-protocol-s3h-dev/releases/download/v0.1.6/colink-protocol-s3h-macos-x86_64.tar.gz"
+    sha256 = "49e6fc3d4c9f1858c3ed91ad30b724b91ff41f5089ca1278bb8680cbda751c89"
