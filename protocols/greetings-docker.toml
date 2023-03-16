@@ -1,0 +1,4 @@
+[source]
+    [source.git]
+    url = "https://github.com/CoLearn-Dev/colink-protocol-greetings-docker-dev.git"
+    commit = "4d3c6ca03707acee82d032fb1f5ff78b23269df5"
