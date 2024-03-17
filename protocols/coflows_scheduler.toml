@@ -1,12 +1,12 @@
 [source]
     [source.git]
     url = "https://github.com/CoLearn-Dev/colink-protocol-coflows-scheduler.git"
-    commit = "185dd541a5ba8beefee1eafa9e6596da6a881eea"
+    commit = "c5b7d62e02211dbe5528eed1d76392676004d829"
 
 [binary]
     [binary.linux-x86_64]
     url = "https://github.com/CoLearn-Dev/colink-protocol-coflows-scheduler/releases/download/v0.1.2/colink-protocol-coflows-scheduler-linux-x86_64.tar.gz"
-    sha256 = "87a0ab7453b60b565e3923ad2fb54147b593f396665c998de060c621a0a4fcc3"
+    sha256 = "1a1db11762726c9de512337e0b3be311b5a22d42a9f09bb9c3012044a1c71990"
     [binary.macos-x86_64]
     url = "https://github.com/CoLearn-Dev/colink-protocol-coflows-scheduler/releases/download/v0.1.2/colink-protocol-coflows-scheduler-macos-x86_64.tar.gz"
-    sha256 = "396cd0063f2dea416a447756cee37bf5aaab841f6e84233327b1eb80fd7251ca"
+    sha256 = "dc8e925b4cc0dbe4f6f81cb16dd263080bb89f9a5c580595d7bda363686d64bf"
